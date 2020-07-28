@@ -11,7 +11,7 @@ This page describes the support status of the significant versions of AngularJS.
   <br />
   _**UPDATE (2020-07-27):**_<br />
   _Due to COVID-19 affecting teams migrating from AngularJS, we are extending the LTS by six months
-  (until the end of 2021)._
+  (until the end of 2021)_
 </div>
 
 Any version branch not shown in the following table (e.g. 1.7.x) is no longer being developed.
